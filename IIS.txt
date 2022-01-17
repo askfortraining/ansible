@@ -1,0 +1,10 @@
+Windows Web administrator IIS 6.0 7.0 with extensive experience installing, configurations, integrations with ASP.NET,.Net Framework 2.0,3.0 3.5 Configuration.
+Troubleshooting Performance Issues with Windows/Unix servers.
+Managing WebServers and Troubleshooting the .NET applications thru Advanced IIS tracing techniques.
+Troubleshooting the problems related with webserver/appserver configuration issues and performance issues.
+Providing Level1/Level2 support for .Net applications and Java/J2EE applications.
+WebServer Installation and configuration of .Net Applications in Microsoft IIS 6.0/7.0/7.5
+Maintains a large number of Load balanced Ecommerce Applications used by the agents which are hosted on IIS Windows and IBM Websphere Application Server on UNIX Solaris 10 platform
+Responsible for the installation, upgrade and daily administration of Windows 2000/2003/2008 servers in a highly demanding production environment servers running 24x7. IIS 6.0 web farm , MSSQL 2005, Microsoft .Net Framework3.0 Servers.
+ 
+	
