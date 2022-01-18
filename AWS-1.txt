@@ -1,0 +1,923 @@
+Strong knowledge on End to End solutioning of cloud proposals (on IaaS, PaaS, SaaS) 
+involving RFP/RFI/RFQ, Consulting, Advisory, Assessment, Hosting, Migration and Support
+
+ETechnically sophisticated Cloud Architect, self - starter with an in-depth understanding in the strategy and practical implementation of AWS/Google cloud-specific technologies. “Silicon Valley” trained, Agile minded, results focused, professional with over 20 years’ experience in delivering large scale, global, multi-million dollar, mission critical projects and program initiatives on time and within budget.
+
+TECHNICAL SKILLS:
+
+Cloud AWS: VPC, Direct Connect, VPN, KMS, Shield, WAF, CloudFront, Route53, EC2, Auto Scaling, ECS, S3, EFS, DynamoDB, ElastiCache, ELB, SQS, SNS, Lambda, API Gateway, Cloudformation, Glacier, Config, IAM, GuardDuty, Inspector
+
+Cloud Azure: Azure Active Directory, Azure ADFS, SQL Azure, Web Apps, Redis Cache, Office 365, SharePoint Online
+
+Cloud Google: - Compute Engine, Cloud Functions, VPC, Kubernetes Engine, Cloud Interconnect, Cloud Content Delivery Network
+
+DevOps: Puppet, Chef, Packer, Kubernetes, Vagrant, Docker, Terraform, Fortify, Bamboo, GitHub, SumoLogic, ServiceNow, Jira, Jenkins, Nagios, Splunk, Artifactory, OpsGenie, Remedy, Vault, Checkmark, CyberArk, CloludHealth, Slack
+
+Networking: TCP/IP, VLAN, Routing(OSPF, BGP), WAN(VPN, MPLS), DNS, SNMP, Firewalls, ACL
+
+Applications/Technologies: ADFS, SSO, OAuth 2.0, SAML, Okta, Node.js, Java, Ruby, Python
+
+Operating Systems: Windows Server (2008,2012,2016), Red Hat Linux, Ubuntu, Amazon Linux, CentOS
+
+Databases: SQL Server (2012,2014, 2016), MySQL, Oracle(11g,12c), Postgres, MySQL, DynamoDB, MongoDB
+
+Leading cloud transformation and architecture team to determine AWS infrastructure/application design strategy to migrate on-prem infrastructure/applications into hybrid cloud model in a multi-zone and multi-region architecture.
+Architecting customized AWS Landing Zone concept. Delivered over 150 customized AWS accounts with over 290 VPC’s in 9 AWS regions utilizing various automation tools to support migration effort to AWS.
+    Collaborating with Application and Solution architects on architecture and integration design to ensure effective integration of infrastructure, application, framework, database, security, messaging and cloud hosted interface.
+    Determining technical solutions to meet evolving business requirements, while reducing TCO, maintaining resiliency, scalability, leveraging standard building blocks to deliver measurable business outcomes.
+    Preparing budgets and financial forecasts for infrastructure/operational costs of AWS.
+    Evaluating Google Cloud solutions to provide alternative cloud tools which are a better fit for business units.
+    Providing technologies, solutions and applications to identify cost saving opportunities utilizing CloudHealth.
+    Analyzing impact of new technologies on existing services, perform gap analysis and ensure that technical components are mapped to business capabilities and established architectural framework.
+    Architecting AWS Cloud based solutions utilizing - VPC, Direct Connect, VPN, KMS, Shield, WAF, CloudFront, Route53, EC2, Auto Scaling, ECS, S3, EFS, DynamoDB, ElastiCache, ELB, SQS, SNS, Lambda, API Gateway, Cloudformation, Glacier, Config, IAM, GuardDuty, Inspector
+    Determining Dev-Ops tools strategy with development and operations teams to fully automate AWS/Google deployments, configurations and operational management. Tools utilized include Splunk, New Relic, OpsGenie, Nagios, Jenkins, Terraform, Consul, Docker, Kubernetes, Chef, Vault, Artifactory, Remedy, ServiceNow, CyberArk, GitHub, JIRA, CheckMarx, Packer, CloudHealth
+
+    Managed, developed, configured, and deployed multiple projects onto the global platform utilizing cloud, hybrid cloud, on-prem and mobile apps to provide over 160,000 employees tools to manage client engagements globally.
+    Drove application modernization and migration of applications away from a datacenter hosted model into hybrid cloud/cloud model in a multi-zone and multi-region architecture utilizing IaaS, PaaS, and SaaS solutions on the AWS/Azure platforms.
+    Built and managed a DevOps framework with tools to automate scalable web infrastructures by administering and operating systems through scripts, API’s, tools, and automation
+    Worked closely with the application and web development teams in an agile, DevOps style collaboration utilizing Jenkins to deploy applications on the AWS/Azure platforms.
+    Built a fully automated, highly elastic cloud framework, leveraging deployment automation and configuration management frameworks such as Chef and Puppet.
+    Implemented a common operating infrastructure framework for the cloud/hybrid cloud/on-prem platform including monitoring, performance, security, and high availability.
+    Managed development of SharePoint 2013, Office 365 solutions and apps for deployment on premise and in the Azure cloud.
+    Led the team who determined the Single Sign-On (SSO) procedure between the cloud AWS/Azure, on premise, and mobile apps utilizing Active Directory, ADFS, Azure AD, AWS IAM, SAML tokens, certificates and integration with the internal/external Layer 7 Secure Span Gateway.
+    Technologies: Amazon Web Services (EC2, S3, Glacier, IAM, CloudFront, CloudWatch, VPC, OpsWorks, RDS, DynamoDB, Elastic MapReduce, Route53), Windows Azure(Azure ADFS, SQL Azure, Apps, Office 365, SharePoint Online), MS SQL Server(2012,2014), Windows Server 2012, Red Hat Linux, Amazon Linux AMI, Ubuntu, iOS & Android Apps, MobileIron, Layer 7, SSO, ADFS, HTML5, Jira, JavaScript, .Net, C#, Node.js, Java, Ruby, Puppet, Chef, Octopus, Splunk, Git, Ant, Maven, Bamboo, Jenkins, AppDynamics, Visual Studio Online
+
+
+    Managed enterprise application deployments and data center consolidation efforts for various business units globally in the America’s, Asia-Pacific and Europe region.
+    Delivered various infrastructure upgrades such as networking (Access, Core, Wireless), hardware (HP DL 580 servers) at various global manufacturing and research sites.
+    Technologies: SharePoint 2010, VMWare, Cisco, NetApp, Documentum, Citrix XenApp, Data Center Infrastructure, ERP-SAP, MS Project Server, Remedy, HP Quality Center
+
+   Managed US based vendors for capital projects and next generation mobile phone products/services in China.
+    Developed a global portal for use between the company and vendors utilizing SharePoint 2007/2010 for document management, business workflow, collaboration, automation of business processes and global access..
+
+
+    Managed multiple web and infrastructure projects for outsourced client projects.
+    Managed multiple projects for outsourcing of all software development from US to an offshore vendor.
+
+
+    Experienced cloud solutions architect, technical lead and a senior systems engineer with 19 years of hands on analytical and technical experience in infrastructure design, implementation, application support and service delivery of IAAS/PAAS/SAAS cloud solutions, big data infrastructure, risk and finance, regulatory reporting fixed income, equity, fix income indices, entitlement management, enterprise web portals, e - commerce, cloud based application solutions, real-time communications, health care applications.
+    Cloud infrastructure architect responsible for AWS CAF, MRA, MRP framework implementation, application migration, landing zone preparation, accounting vending machine, 6 R’s migration patterns, application discovery, rapid migration using cloud endure and application modernization.
+    Lead the design and implementation of AWS and Azure cloud solutions for the Risk and Finance organization at major investment banks that resulted decrease of infrastructure TCO by 30% and converted CAPEX to OPEX model.
+    Lead the cloud strategy, vision and formation of blueprints for secure and adoptable multi-tenant cloud framework including custom governance, security, identity management and operational controls.
+    Performed AWS/Azure IAAS/PAAS systems design and implementation responsibilities that include logical system design, cloud architecture analysis and design, application migration, systems and directory integrations with corporate technology landscape.
+    Implemented IaaS and PaaS services in AWS/Azure including VPC, IAM, EC2, S3, RDS, Redshift, DynamoDB, Glacier, Kinesis, LAMBDA, ECS, Cognito, API gateway, network integration, directory integration, VPC peering, and single sign-on. Strong knowledge in AWS Landing zone, account vending machines and other AWS tools.
+    Developed automation templates and other Infrastructure-As-Code solutions to automate the provisioning and maintenance of large-scale environments and configuration management. Implemented resource groups for audit and billing reports.
+    Supported various technology groups as a thought leader in the adoption of cloud architectures for existing and new applications. Created CCOE working groups in the planning and implementation efforts.
+    Excellent communicator responsible for maintaining close relationship with business and IT teams. Worked with various application and infrastructure teams to enhance their internal processes. Established CCOE with internal stakeholders, platform teams across IT and act as an SME for the cloud team. Presented cloud solutions to business groups.
+    Managed vendor relationship with external vendors and internal technology services teams for quick turnaround of application & infrastructure critical issues.
+    Contributed in crafting SLA documents with external vendors, business and customers. Reviewed and refined OLA agreements with internal infrastructure services organizations.
+
+TECHNICAL SKILLS:
+
+Operating Systems: Linux, Solaris, Windows
+
+Cloud Solutions: AWS VPC, AWS landing zone, AVM, Microsoft Azure, Azurestack, Openstack, Openshift, Docker, Kubernates
+
+Big Data: AWS EMR, Hadoop, HDFS, MapReduce, YARN, SPARK, Sqoop and Impala, HDInsight.
+
+Applications: Trading platforms, e-commerce, BASEL & CCAR regulatory reporting, Big Data, Data Warehouse, Enterprise Portal, Fixed income portfolio risk & indices, unified communications, entitlement management systems, healthcare applications, hospitality management applications.
+
+Application servers: OBIEE, Axiom, WebLogic, JBOSS, Tomcat, Apache, SunOne, ClearTrust, Siteminder, OIM
+
+Virtualization: AWS EC2, VMWARE VSphere, Citix Xen, KVM, Hyper-V, Oracle LDOM
+
+Service Delivery: Cloud migration planning, CCOE, Strategic planning, cloud migration design, operations, transition, stakeholder engagement, analytics and reporting.
+
+Service Operations: Incident management, Problem management, release management, disaster recovery.
+
+Enterprise framework: Togaf, Zachman, SDLC, SOA, ITIL, solutions architecture.
+
+Core Services: Active directory, LDAP, DNS, DHCP, NTP, Mail Gateway, TCP/IP, UDP, SIP, and Multicast
+
+Database: Oracle, Sybase, DB2, NoSQL, data warehouse
+
+Networking: Firewalls, Load balancers, VLAN, IPTABLES, NETFILTER, TCPDUMP & Wireshark.
+
+Storage: AWS S3, EBS, EFS, Amazon Glacier, Azure Blob, Fiber Channel, iSCSI, FCOE.
+
+Monitoring: Geneos, Nagios, HPOV, SiteScope, Phoenix, Panorama, Nagios, TeamQuest, Dynatrace
+
+Automation and messaging tools: Control M, Autosys, LAMBDA, Cloud Formation, SNS, SQS, Elastic beanstalk, Kinesis, Kafka, cloud endure.
+
+Devops CI/CD: Jenkins, Selenium HQ, Puppet, Chef, Ansible, Harness.
+
+PROFESSIONAL EXPERIENCE:
+
+Confidential
+
+Cloud infrastructure solutions Architect
+
+Responsibilities:
+
+    Cloud architect for the Confidential assigned to Choice Hotels account for their AWS, IAAS/PASS/SAAS infrastructure design, architecture, engineering, deployment, integration and migration of business-critical applications to AWS echo system.
+    Performed business requirement analysis to design technical solutions. Proposed framework based on CAF, MRA, MRP models.
+    Performed infrastructure and application discovery, proposed 6R migration plan and provided target architecture and cost assessment in AWS platform.
+    Performed detail infrastructure and application dependency discovery using Risc network analysis tool. Proposed and designed mass application re-host migration with cloud endure migration tool.
+    Participated in design and implementation of 21 accounts AWS landing zone-using AWS account vending machine and automated infrastructure deployment tools. Assisted platform team’s to implement transit gateways and cloud security instruments in Choice hotels proposed AWS PCI /PII and non PCI infrastructure.
+    Performed cloud readiness assessment, prepared project plan and WBS for successful application migration to AWS.
+    Implemented AWS core services like VPC, Landing zone, Account vending machine, EC2, RDS, VPC, ELB/ALB, EBS, Route 53, S3, Dynamo DB, cloud watch, AWS Lambda, ECS/EKS, API, gateway, cloud-formation, CI-CD pipeline and cloud-endure migration tool.
+    Prepared HLD, DLD architecture plans and presented to CCOE for approval. Executed approved HLD/DLD for infrastructure implementation and application migration.
+    Created migration run book and trained platform teams on migration activities. Shared technical knowledge and expertise to cloud engineering teams to implement robust CI-CD automated deployment pipeline.
+    Designed micro-services solutions in effort to re-architect /modernize applications to AWS. Lead application migration planning and execution effort to AWS using re-host, re-platform and re-architect patterns.
+    Planned and executed strategy in partnership with the AWS pro serve account management team.
+    Act as a technical contact between customer platform engineering and AWS product and support teams. Organize product s to meet customer needs and assisted sales team to introduce new products and solutions to clients.
+    Worked with AWS accounts team to present proposals and solutions to client’s executive team. Attended CCOE and steering comity meetings to provide status updates.
+
+Confidential
+
+Technical Architect / Cloud Solutions Architect
+
+Responsibilities:
+
+    Cloud Architect for the risk and finance IT, responsible for the IAAS/PASS infrastructure design, architecture, engineering, deployment and migration of Data warehouse, Big Data, business intelligence technology solutions for BASEL, CCAR and other regulatory reporting programs.
+    Performed requirement collections for infrastructure, security, audit, directory services, applications, database and big data solutions.
+    Conducted systems and application analysis and profiling. Prepared migration blueprints in preparation for cloud migration for group finance applications.
+    Designed and implemented network connectivity solutions over VPN and Direct connect. Implemented private subnets, created user defined network routes. Implemented security groups and ACL’s in coordination with enterprise network teams.
+    Created and configured VPC’s. Designed and implemented Multi-VPC peering for different vertical application groups in Risk and Finance organization.
+    Designed high availability and disaster recovery solutions by implementing multi-DC and Multi-AZ compute, storage and database solutions. Ensured data replication across different availability zones.
+    Implemented robust and auditable identity and access management (IAM) solution in AWS for VPC’s. Followed AWS best practice to implement IAM role based access control for AWS compute, storage, database and big data solutions.
+    Designed and implemented active directory integration (ADFS/SAML). Extended corporate active directory to AWS managed active directory. Integrated active directory to IAM using ADFS in coordination with enterprise directory management teams.
+    Implemented enterprise security, compliance and Audit process and workflow to AWS platform for group finance VPC’s. Configured cloud watches and cloud trail for instance and service monitoring, application and instance log collection.
+    Created VPC resource groups to consolidate assets by application groups using tags for audit, usage and billing reports. Created cloud watch workflow to notify and shutdown instances those are not in use by Dev/QA/UAT teams.
+    Designed and implemented domain joined EC2 instances. Extended enterprise systems configuration management tools (Puppet/Chef) and security, audit, systems monitoring tools.
+    Designed and wrote could formation scripts in Jason and YAML to automate on demand infrastructure creation for production landscape, devops Ci/CD and business intelligence tools.
+    Automated Data Lake, data flow and serverless compute solutions for micro services and API layer with LAMBDA, Kinesis and Kfka solutions.
+    Setup and configure EC2/S3/EBS/EFS/Glacier storage solutions and automated on demand creation of IAAS stack of AWS services for quick turn around.
+    Designed and implemented RDS-Oracle, Aurora solutions. Migrated data warehouses to RedShift. Archived regulatory data in Glacier to save storage cost.
+    Setup and configure SQS queue, SNS notification.
+    Designed, implemented large Big Data EMR solutions. Configured EMR with Auto scaling capabilities to meet dynamic compute capacity requirements.
+    Design and configure API gateway, configure Cloud Front CDN and Database cache solutions.
+    Designed LAMDA function to initiate automated tasks to process media, send messages and automate content delivery. Designed rapid packaging and deployment of infrastructure as code using AWS cloud formation service. Design solutions to implement micro services and data catching technology to enhance user experience for complex business and media applications.
+    Designed solutions to support cloud based assets by the corporate application support teams. Prepared run book documentations and trained of corporate technical teams and support organizations.
+    Deployed in house Openshift/Docker origin container infrastructure to implement agile development and continuous delivery devops solutions.
+    Designed and deployed inhouse 30+ node Hadoop cluster with HDFS, MapReduce, YARN, SPARK, Sqoop and Impala solutions for 10 group finance calculation engines in a multi-tenant design.
+    Lead architect and technical delivery lead to migrate 50TB data warehouse applications from Oracle DHP to Oracle VLDB solutions to reduce 500K TCO per year. This migration also included refresh of end of life hardware, storage and database platforms.
+    Technical Architect responsible for designing Oracle OBIEE 12c platform to consolidate 20 regulatory reporting applications across United States and Switzerland to reduced overall licensing, procurement and support costs for the Basel regulatory reporting program. This migration also includes migrate existing OBIEE instances from physical servers to AWS cloud platform.
+
+Confidential, NA
+
+Service Transition Manager
+
+Responsibilities:
+
+    Service transition manager responsible for transition of financial regulatory reporting applications from the legacy platform to strategic “Stride” platform for the Confidential finance origination.
+    Responsible for technical requirement collection, design review, production support planning, resource allocation and application on boarding process for the new Stride platform.
+    Maintain close partnership with “Stride” program organization to design production support engagements to provide operational support of CCAR, 14M, 14A, Y9C financial regulatory report processing.
+    Engaged in monthly code release and operational activities for the production support organizations. Review SIT, UAT and deployment services activities for the maximum preparation of the operational support teams.
+    Perform release readiness review and risk assessment of the production environment. Perform risk assessment and produce risk reports for the senior management for go-no-go decision.
+    Produce book of work, service transition dashboard and post release after care plans for business groups and production services domain.
+
+Confidential
+
+Vice President & Regional Head of Production Support
+
+Responsibilities:
+
+    Regional head of application support & functional manager of a team of 20 application support analysts to manage client reported incidents, major incidents, monitoring, change, release, problem management and continuous service improvement in a global application support organization.
+    Responsible for 24X7 application and infrastructure support of 150+ Linux/Windows servers with Weblogic and Citrix platforms to run 8 business critical fixed income analytics (POINT) and Barclays fixed income indices applications running on distributed and grid computing architecture.
+    Performed a major database migration of 300 financial services client databases from Sybase to SQL server 2012 platform in conjunction with development, DBA, infrastructure and project management teams.
+    Performed delegation of client submitted incidents, batch job performance and data delivery issues to team members. Oversaw client reported issues to successful resolution. Escalated issues to development teams that needed further troubleshooting and resolution. Achieved 50% more service level success rate for break fix issues.
+    Developed close partnership with database, UNIX, network, storage, middleware and other technology services teams for quick turnaround of infrastructure critical issues to ensure maximum application uptime.
+    Refined IT Operations service catalogue with stakeholders, Reviewed and refined OLA agreements with internal infrastructure services organizations. Contributed in crafting SLA documents with stakeholders and customers.
+    Managed relationship with external vendors on technical issues. Engaged global technology service teams to implement new solutions and enhance existing solutions.
+    Incident managers of major incidents. Led troubleshooting calls with development teams and external vendors, managed resources to resolve systems and application outage.
+    Led problem management process. Achieved 50% reduction of major incidents by leading root cause analysis, post mortems and remediation efforts by implementing effective problem management practice.
+    Led change/release management process. Organized change approval meetings with development and business teams. Enforced minimum change acceptance criteria and change test evidence before rolling out any change in the production environment.
+    Consolidated knowledge base wiki to document all application support documents. On board new support responsibilities by creating run-books and application workflow diagrams.
+    Organize sessions for new features and products for the support teams to provide fast solutions to demanding clients.
+    Responsible for business continuity and disaster recovery planning and execution for the fixed income analytics and indices applications.
+    Performed quarterly and yearly application failover and disaster recovery tests.
+    Streamline client support workflow and measure success and failure by producing incident support metrics. Reported systems, applications, database and middleware components performance.
+    Created shift rotation and manage on-call and weekend support rotations.
+    Mentor team members to learn new skills and improve existing skill sets.
+
+Confidential
+
+Solutions Architect
+
+Responsibilities:
+
+    Worked closely with stakeholders to collect requirements to design technical solutions to meet business objectives.
+    Produced service design package, prepared technology proposals and performed solutions presentation to stakeholders.
+    Designed hybrid cloud based solution to host Standard & Poor’s public website on Amazon Could Services platform. Hybrid could solution design included secure connectivity, rapid deployment of Linux Servers and oracle weblogic platforms.
+    Designed server virtualization solutions to upgrade and increase capacity of the McGraw Hill Teachers/Student portal “Create” from 8 physical Sun Fire T2000 platforms to 128-node LDOM environment running on 4 Oracle Sparc T4-4 platforms.
+    Designed consolidation of 25+ business critical applications to 100 LDOM nodes each consists of 4 weblogic-managed servers in 2 data centers.
+    Solutions Architect responsible for designing infrastructure to host the Lock Lizard proprietary rights management and license delivery application for the division of the Confidential on Apache, tomcat and SQL server environments.
+    Closely worked with application development and support teams to collect requirements. Provided technical guidelines to implementation engineers, network, storage, firewall and load balancer teams. Delivered solutions design package on time and under budget.
+
+Confidential
+
+Service Delivery Manager
+
+Responsibilities:
+
+    Led initiatives to improve production support strategies to streamline service delivery.
+    Actively managed operational support strategy, including systems infrastructures, incident management, configuration management, release management, production support and application performance analytics for the Confidential Entitlement Solutions organization.
+    Was responsible for incident management and root cause analysis and performance analysis of 23 business critical applications.
+    Performed project management and service delivery of 23 business critical applications and related infrastructures.
+    Produce service measurement and application usage/performance reports and monthly presentation for senior management.
+    Wrote custom shell scripts to collect usage metrics data, release applications and sync code between regions.
+    Developed and implemented a full life cycle of application release management process for the Confidential Entitlement Solutions organization.
+    Responsible for implementing performance management and capacity management instruments for the Entitlement Management web applications.
+    Led knowledge management initiatives in the production support organization and implemented affective and practical knowledge sharing solutions.
+
+Confidential
+
+Production Support Manager
+
+Responsibilities:
+
+    Responsible for 24x7 production support of mission critical systems consist of 650+ Linux, Solaris, true64 servers.
+    Led a team of 18 systems administrators and production support analysts in two separate locations in Maryland and Northern Virginia.
+    Performed operational workflow analysis to increase productivity and service delivery. Reduced average service delivery time by 30% by re-designing, service fulfillment, change management and incident management workflow. Achieved 25% more service level success rate for break fix issues.
+    Managed a project to transform workflow of Confidential ’s enterprise operations center. Implemented 3 levels of highly affective customer support organizations and increased success rate by 30%.
+    Responsible for operations center’s service reporting and measurement reports. Managed customer relations, business needs assessments, planning, architecting technology solutions, reporting, incident and change management.
+    Responsible for producing application and systems support matrix reports and continuous service improvement.
+    Responsible for the systems and application support of mission critical Confidential Decennial systems.
+    Led a project to implement the systems infrastructure of Census 2010 public website. Responsible for the production support of Census Bureau’s public web presence.
+    Provide production support of key application such as SAS, BEA Weblogic, JBOSS, and Apache.
+    Provide systems support of high performance Oracle and Sybase clusters.
+    Enhanced systems and application monitoring tools by using HPOV, OVPI, HP Sitescope to monitor critical servers and applications.
+    Designed and implemented ITIL compliant IT policies and procedures based on best practice. Implemented ITIL based incident management, change management and problem management processes.
+    Responsible for managing customer requirements, resource management, budget and contracts.
+
+Confidential
+
+Lead Infrastructure Solutions Architect
+
+Responsibilities:
+
+    Designed, architected and implemented systems and application infrastructure of “Real time English” startup project in co-located data center in conjunction with vendors and service providers.
+    Designed custom CentOS Kickstart build and YUM repository for 30 apache, tomcat, Gigaspace and Database servers.
+    Engineered DNS, NTP, Postfix, and local YUM repositories. Compiled and packaged custom version of Apache, Tomcat and MYSQL. Administered Apache/Tomcat web server firm.
+    Wrote shell scripts to perform MySQL daily backup, data load and database synchronization between MySQL servers.
+    Performed RPM application packaging and weekly code release.
+    Wrote Shell, Perl scripts for release management, site updates and daily site and systems performance analysis and reporting. Introduced change management policies and procedures.
+    Provided management and marketing reports by implementing Google analytics and Urchin deep web analytics tool.
+    Introduced TCPDUMP and Wireshirk packet analysis tools to troubleshoot network and application related anomalies.
+    Managed day-to-day projects, tasks, initiatives and provided daily and weekly senior management reports.
+
+Confidential
+
+Global Production Support Lead
+
+Responsibilities:
+
+    Led a team of 8 systems engineers to provide application and systems support of Confidential “LehmanLive” web portal and other mission critical trading applications on 200 + Linux and Solaris servers in a global environment.
+    Supported critical applications such as Lehman instant messaging solution, Client facing white label sites, Tocket remote access for all Lehman employees and clients, ADB asset database, Enterprise incident and change management system, Single sign-on, Entitlement infrastructures.
+    Actively participated in resource planning, vendor relationship, capacity planning and growth. Partnered with Capital Market, Equity and Prime Service business groups on a regular basis to implement high performance cost affective application and infrastructure solutions.
+    Architect and Engineer responsible global deployment and support of Lehman Brother’s global instant messaging platforms on Jabber XMPP, Mind Align, OCS, and Facetime platforms for 30K users.
+    Specialized in DR planning and implementation of Lehman Live portal infrastructure across USA and global data center environments.
+    Responsible for the production support of Oracle database for the Lehman Live portal, IMLive instant messaging engine and Entitlement applications.
+    Responsible for performance management and systems management and monitoring using Sitescope and Phoenix.
+    Responsible for performance analysis and trouble shooting of high performance real-time trading applications using TCPDUMP and Wireshirk.
+    Experienced in EMC Storage, BIG IP F5 and Checkpoint firewall. Work with Storage and network teams to implement and manage global storage and network solutions.
+    Wrote shell and pearl scripts for global application release and to create opsware application packages.
+    Performed Global application release of portal, trading, asset management, incident management and IM complimented real-time trading and client support applications.
+    Support global portal development team across 3 times zones on QA, stage environments.
+
+Confidential
+
+Lead Infrastructure Architect
+
+Responsibilities:
+
+    Designed and deployed Confidential global web application infrastructure on BEA Weblogic, Solaris and Linux platforms on Sun and HP Blade architecture.
+    Introduced Weblogic application release process to deploy and update J2EE applications across Confidential global Internet and intranet sites. Re-packaged java web applications to meet J2EE standard.
+    Created Run books and trained support teams to manage and administer Solaris and Linux platforms and Weblogic application servers.
+    Designed and deployed Custom Solaris, Redhat Linux OS builds using Solaris Jumpstart and Linux Kickstart Performed kernel enhancements and debugging for high performance database and application servers.
+    Designed and deployed Redhat hardware HA solutions for Confidential ’s billing applications.
+    Deployed systems and application monitoring solutions using Nagios and HP Openview.
+
+Confidential
+
+Senior Systems Engineer
+
+Responsibilities:
+
+    Responsible for systems administration of 50 Solaris and Linux Servers running BEA Weblogic and other critical clinical applications and reporting engines for Confidential and Confidential hospital. Deployed Weblogic clustered infrastructure on Solaris to host Confidential online movie rental website. Wrote scripts using Weblogic command line tools to establish application release procedures.
+    Responsible for Solaris and Linux Kernel performance enhancement and Kernel debugging and network packet analysis and Confidential and Confidential Medical center.
+    Supported Weblogic infrastructure on Solaris
+    Responsible for the administration and support SunOne and Site Minder single sign on solution for Confidential and Confidential application infrastructure.
+    Administer and supported BIG IP F-5 load balancers and checkpoint firewalls.
+    Supported interwoven Teamsite content management server for Confidential and Confidential medical center for static content deployment to corporate public websites.
+    Responsible for J2EE application deployment, troubleshooting and often packaging applications for Confidential and Confidential Medical center.
+
+Confidential, Manhattan, New York
+
+Senior Systems Software Specialist
+
+Responsibilities:
+
+    Responsible for the systems and application administration of over 130 Distributed mid range Sun and Linux Servers in a mission critical 24/7 environment.
+    Designed and deployed server firm consist of 20 BEA Weblogic 8.1 servers to support mission critical intranet clinical and B-to-B applications infrastructures.
+    Customized Solaris and Linux kernel and other subsystems. Engineered and deployed Solaris custom Jumpstart, Live upgrade and Linux Kick start for Solaris 7, 8, 9 and Red Hat Linux servers.
+    Implemented and administered Verity search engine for health related content on Solaris platform.
+    Designed and Deployed Confidential Technologies Vital QIP IP management suite to manage IP address base, internal DNS and DHCP in a 15K node environment.
+    Migrated DHCP data from legacy JOIN DHCP servers and Spreadsheets and text files.
+    Wrote shell scripts and Perl scripts to automate repetitive systems administration tasks.
+    Wrote Technical and Operational docs and Trained Support groups.
+Created monitors, alarms, and notifications for EC2 hosts using Cloud Watch.
+Integration of ANT/Nexus, Jenkins, Urban Code Deploy with Patterns/Release, Git, 
+Confluence, Jira and Cloud Foundry.
+Implemented AWS solutions using E2C, S3, RDS, EBS and Elastic Load Balancer, Auto-scaling 
+groups, Optimized volumes and EC2 instances.
+Implementing new projects builds the framework using Jenkins, maven as build framework 
+tools.
+Implementing a Continuous Delivery framework using Jenkins, Puppet, maven& Nexus in Linux 
+environment.
+Responsible for Distributed Version Control Systems like GIT, SVN, ACCUREV.
+Installation, configuration and troubleshooting of Redhat Linux, Ubuntu and Windows on 
+various hardware platforms and over 6 years in DevOps tools like SVN, GIT, ANT, Maven, 
+Jenkins, Ansible, Chef, Docker, Kubernetes and AWS/Azure/GCP cloud.
+
+Working Experience on Azure Cloud Services, Azure Storage, SQL Azure and in different 
+PaaS Solutions with Web, and worker Roles and Azure Web Apps.
+
+Strong Experience in Micro services architecture and Migration of all servers from on - 
+premises to Docker/Kubernetes container technologies in Azure.
+
+Hands on experience on Azure VPN-Point to Site, Virtual networks, Azure Custom security, 
+end security and firewall. 
+Used Azure Express Route to set up a private connection to Microsoft cloud services such 
+as a Microsoft Azure, Office 365, and Dynamic 365.
+
+Experienced in automating, configuring and deploying instances on Azure , AWS , and 
+Rackspace cloud environments and Data centers with in depth knowledge on ELK Stacks 
+such as Elasticsearch, Logstash and Kibana.
+
+Involved in migrating physical Linux/Windows servers to Cloud (AWS) and testing.
+
+Built servers using AWS Cloud Formation scripts: Importing volumes, launching EC2, RDS, 
+assigning roles and policies via IAM, implementing Auto-Scaling, load balancers (ELBs), 
+Security groups in the defined Virtual Private Connection.
+
+Created and maintained Highly Available Fault Tolerant Infrastructure Security services 
+as virtual firewalls to control the traffic on EC2 instances for multitude of 
+applications utilizing the Amazon Web Services focusing on auto-scaling.
+
+Migrating on premise Database Servers to AWS Cloud using AWS DMS. Developed Python 
+modules to automate processes in AWS ( AWS Cloud Formation).
+    
+Implemented AWS Lambda functions to run scripts in response to event in Amazon Dynamo DB 
+table or S3 bucket or to HTTP requests using Amazon API Gateway.
+Expertise with Docker images using a Docker file, worked on container snapshots, removing
+Images and managing Docker volumes. 
+Orchestration of Docker images and Containers using Kubernetes by creating master and 
+node.
+Experience on Ansible and Ansible Tower to automate repetitive tasks, to deploy critical 
+applications quickly, and proactively manage the changes and wrote many playbooks to 
+manage Web applications. 
+
+Experience in installing and configuring the Ansible management node to deploy the 
+configuration to the end user nodes.
+Created Shell scripts (Bash), Ruby, Python , Groovy, YAML and Power Shell for automating 
+tasks.
+
+Experience in Configuring and Managing logging and monitoring tools such as Nagios, 
+AppDynamics, Prometheus, SumoLogic, Splunk, ELK.
+
+Involved in using Terraform and Ansible, migrate legacy and monolithic systems to Azure 
+and managing Ubuntu and RHEL virtual servers on Azure by creating Ansible Nodes.
+
+Expertise in using Chef attributes, Chef templates, Chef recipes and Chef files for 
+managing the configurations across various nodes, build, design and maintain the platform 
+automation using Chef and Involved in setting up Chef Workstation, Nodes, Cookbooks, 
+and Recipes using Ruby Scripting.
+ 
+Used Jenkins as Code Deploy plugin to deploy to Azure and extensively worked on other 
+tools like Bamboo, Hudson, and Cruise Control for continuous integration and for all end 
+to end automation functions with all build and deployments.
+    
+Integrated Jenkins with Docker container using Cloud bees Docker pipeline plugin and 
+provisioned the EC2 instance using Amazon EC2 plugin.
+
+Experience leveraging TFS (Team Foundation Server) environments using Visual Studio, 
+.NET and Microsoft SQL Server
+Experience in working on version control systems like Subversion and GIT, clear case, 
+Stash used Source code management client tools like Visual SVN, Tortoise SVN, Stash, 
+Source Tree, GIT Bash, GitHub, GIT GUI and other command line applications etc.
+ 
+Experience in JIRA for ticketing and as well as defect tracking system and configure 
+various workflows, customizations and plug-ins for JIRA bug/issue tracker, integrated 
+Jenkins with JIRA, GitHub, Maven.
+
+Experience in all phases of Software development life cycle (SDLC) with focus on the 
+build and release of quality software and good Confidential Waterfall model, Agile 
+Methodology (Scrum and Kanban).
+
+Expertise in Linux/UNIX system builds, administration, Installations, Upgrades, 
+Troubleshooting on different distributions such as Ubuntu, CentOS, Red Hat, RHEL 
+4.x/5.x/6.x2.
+
+Expertise in dealing with Linux Utilities: KICKSTART, SSH, FTP, autofs, Quota Management, 
+wrappers, User Management, Process Management, Memory Management, and Text processing 
+tools. Log Management, Package Management, Disk Management and Swap Partition/Files 
+Management.
+
+TECHNICAL SKILLS:
+
+Operating System: Linux, Windows, MacOS, Unix, Solaris
+
+CI and CD Build Tools: ANT, Maven, Hudson, Jenkins, Bamboo, Spinnaker
+
+Cloud Platforms: AWS, Azure, GCP
+
+Version Control Tools: GIT, GitHub, Subversion, Bitbucket, CVS, ClearCase
+
+Automation/ Configuration Management Tools: Chef, Puppet, Ansible
+
+Monitoring and Logging Tools: Nagios, Splunk, ELK, Datadog, Dynatrace
+
+Containerization Tools: Kubernetes, Docker, Docker Swarm, OpenShift
+
+Testing and Ticketing Tools: SonarQube, Selenium, JIRA, ServiceNow, Remedy ConnectWise
+
+Virtualization Technologies: Windows Hyper-V, VMWare ESXi, Virtual Box, vCenter, vSphere, Power VM
+
+Programming Languages and Scripting: Python, Java, C, Shell Scripting, Ruby Scripting, PowerShell, YAML, Perl
+
+Web Technologies: HTML, CSS, XML, AJAX
+
+Database Systems: Oracle 10g/9i, SQL Server, MySQL, NoSQL (Mongo DB, Cassandra)
+
+Application/Web Server: Tomcat, Apache, IIS, Oracle, WebLogic
+
+Networking/Protocols: DNS, DHCP, NIS, NFS, WAN, SMTP, LAN, FTP/TFTP, TCP/IP, HTTP, HTTPS, VLAN, ARP, TLS, SSL
+
+PROFESSIONAL EXPERIENCE:
+
+Involved in creating the Azure Services with Virtual Machine. Involved in developing the 
+Azure Solution and Services like IaaS and PaaS. 
+
+Managed Azure Infrastructure Web Roles, Worker Roles, Storage, Azure AD Licenses, 
+Office365. 
+
+Created Cache Memory on Windows Azure to improve the performance of data transfer between 
+SQL Azure and WCF services.
+
+Used Azure Express Route to set up a private connection to Microsoft cloud services such 
+as a Microsoft Azure and Dynamic 365.
+
+Configured Azure Virtual Networks, subnets, DHCP address blocks, Azure network settings, 
+DNS settings, security policies and routing. AzureAPI Management, Security, 
+Cloud-to-Cloud Integration (Public, Private)
+
+Extensive experience in Azure E3 Enterprise Mobility Suite of tools in MFA 
+(Multi-Factor Authentication) and Intune. 
+
+Build Data Sync job on Windows Azure to synchronize data from SQL 2012 databases to 
+SQL Azure.
+
+Azure IoT hub, event hub, service bus and integration patterns.
+Developed a conical map/reduce-like architectural pattern that that is designed to 
+leverage the Azure platform. 
+
+Work in progress on POC to migrate to Windows Azure to address scalability and 
+performance issues. 
+
+Implemented high availability with Azure Classic and Azure Resource Manager deployment 
+models.
+
+Converted .Net application to Microsoft Azure Cloud Service Project a part of cloud 
+deployment. 
+
+Migrated SQL Server 2008 database to Windows AzureRedis and updating the Connection 
+Strings based on Windows Azure SQL Database. 
+
+Experienced with deployments, Maintenance and troubleshooting applications on Microsoft 
+Cloud infrastructure Azure .
+
+Used Terraform to reliably version and create infrastructure on Azure . 
+Created resources, using AzureTerraform modules, and automated infrastructure management.
+    
+Similar infrastructure is deployed to Azure and additional cloud providers or on-premises 
+datacenters using Terraform and managed infrastructure on multiple cloud providers.
+ 
+Used both Splunk for monitoring and analyzing log information. Experienced in 
+Troubleshooting. Splunk search, quotas, monitor Inputs, WMI Issues, Splunk crash logs and 
+Alert scripts.
+
+Designing and Setting-Up the Splunk Architecture in the organization and creating 
+Applications on Splunk to analyze the Big Data. 
+Design and write code to develop and maintain systems which power Splunk multi-tenant 
+services hosted in the public cloud.
+
+Used AzureKubernetes Service to deploy a managed Kubernetes cluster in Azure and created 
+an AKS cluster in the Azure portal, with the Azure CLI, also used template driven 
+deployment options such as Resource Manager templates and Terraform .
+
+Experience with Open Shift, Kubernetes architecture and design, troubleshooting issues 
+with platform components Azure, and developing global or multi-regional deployment models 
+and patterns for large-scale developments and deployments on Cloud Foundry, OpenShift 
+and Kubernetes .
+
+Managed host Kubernetes environment, making it quick and easy to deploy and manage 
+containerized applications without container orchestration expertise.
+    
+Configured applications that run multi-container Docker applications by utilizing the 
+Docker-Compose tool which uses a file configured in YAML format. Used Kubernetes to 
+manage containerized applications using its nodes, Config-Maps, selector, Services and 
+deployed application containers as Pods.
+
+Designed strategies for optimizing all aspect of the continuous integration, release and 
+deployment processes using container and virtualization techniques like Docker and 
+Kubernetes. 
+
+Built Docker containers using microservices project and deploy to Dev.
+Installed Docker Registry for local upload and download of Docker images and from Docker 
+Hub and created Docker files to automate the process of capturing and using the images.
+
+Worked on Ansible Playbooks with Ansible roles. Created inventory in Ansible for 
+automating the continuous deployment. Configured the servers, deployed software, and 
+orchestrated continuous deployments or zero downtime rolling updates.
+
+Implemented Ansible Tower for managing complex network deployments by adding control, 
+knowledge and delegation to Ansible powered environments. Wrote Ansible Playbooks using 
+Python SSH as Wrapper for Managing Configurations of my servers, Nodes, Test Playbooks 
+on Azure instances using Python .
+
+Automated various infrastructure activities like Continuous Deployment, Application 
+Server setup, Stack monitoring using Ansible Playbooks and has integrated Ansible with 
+Jenkins .
+
+Created Ansible cloud modules for interacting with Azure services which provides the 
+tools to easily create and orchestrate infrastructure on Azure and automated cloud-native 
+applications in Azure using Azure microservices such as Azure functions and Kubernetes on 
+Azure .
+
+Extensively worked on Continuous Integration (CI) and Continuous Deployment (CD) process 
+by automating build on time basis using Jenkins . Designed the project workflows/pipelines
+using Jenkins for Continuous Integration and deployment into different Web/Application 
+Server.
+
+Involved in the functional usage and deployment of applications in WebLogic, WebSphere, 
+IIS and Apache Tomcat Server.
+
+Created a resource group, storage account, and Azure Files in cloud Shell using PowerShell
+Created Power Shell scripts to automate the Azure Cloud system creation including 
+end-to-end infrastructure, VMs, storage, firewall rules.
+Virtual Machine Backup and Recover from a Recovery Services Vault using Azure Cloud Shell
+and Portal. 
+Used Power Shell for troubleshooting remote management of Azure Virtual Machines.
+Used Git as Source code Manager, Phabricator for code review, Git repository hosting, 
+bug tracking, project management, team collaboration tool, Arcanist as a command line 
+interface to Phabricator to create Lint’s for reviewing code.
+Worked with different Bug tracking tools like JIRA. Generated reports using JIRA for 
+creating projects, assigning permissions to users and groups for the project and created 
+mail handlers and notifications schemes for JIRA.
+
+Environment: Azure (Web Roles, Worker Roles, SQL Azure, Azure Storage, Azure AD, Resource Groups,Office365, RBAC), OpenStack, Chef 13.x/12.x, Ansible 2.4, Docker 1.13.1/1.12.6, Kubernetes 1.8/1.7, Maven3.5.x, Jenkins 2.10x, GIT-2.1x/2.x, Cassandra 2.x/3.0, AEM 6.2/6.0, Python 3.6, Jira 6.4.
+
+Confidential - Houston, TX
+
+Cloud/ DevOps Support Engineer
+
+Responsibilities:
+
+Created and maintained Highly Available and Fault Tolerant infrastructure in Amazon VPC 
+using EC2 with Elastic load balancing and Auto scaling groups in AWS cloud. 
+
+Created AWS Config stack in Cloud Formation that will monitor everything going in on AWS 
+account.
+
+Setup and build AWS infrastructure in various resources like VPC, EC2, RDB, S3, IAM, EBS,
+Security Group, Auto Scaling, SES, SNS and RDS in Cloud Formation JSON templates. 
+
+Migrating on premise Database Servers to AWS Cloud using AWS DMS.
+Worked with various AWS EC2 and S3 CLI tools . Worked on setting up the life cycle 
+policies to back the data from AWS S3 to AWS Glacier Experienced in Amazon EC2 setting 
+up instances, virtual private cloud (VPCs), and security groups.
+Experience in Cloud computing, Windows Azure environment, creating the New VMs, Azure 
+subscriptions, storage accounts, managing SSL certificates for IIS websites, 
+administering azure assets using PowerShell.
+
+Worked on Azure cloud services, Azure storage, Azure active directory, Azure service Bus. 
+Create and manage Azure AD tenants and configure application integration with Azure AD. 
+Integrate on-premises Windows AD tenants and Configure application integration with Azure 
+AD.
+
+Configured continuous integration from Source control, setting up build definition within 
+Visual Studio Team Services (VSTS) and configure continuous delivery to automate the 
+deployment of ASP.NET MVC applications to Azure web apps.
+
+Deployed ASP.NET web Application in Azure using Web App service, connected it to 
+Azure SQL Database and used VSTS to provide CI/CD pipeline.
+
+Worked in EBS Encryption, S3, and data Confidential rest and data in transit. 
+Created Python scripts to automate AWS Services which includes ELB, Cloud front, Lambda, 
+database security and application configuration also Developed them to take backup 
+of EBS volumes using AWS Lambda, CloudWatch.
+
+Configured AWS Identity & Access Management (IAM) by managing the users new accounts, 
+roles and groups. 
+
+Supported AWS Cloud environment with AWS instances and configured Elastic IP and Elastic 
+storage.
+
+Installed/configured/maintained/administrated the network servers DNS, NIS, NFS, 
+Send mail and application server Apache, my, JBOSS, Web logic, Oracle E-business suite 
+and Samba on Linux.
+
+Using Kubernetes, I have controlled and automated application deployments and updates 
+and orchestrated deployment. 
+
+Managed Docker containers with multiple name spaced versions. 
+Used Heapster monitoring platform on Kubernetes to report detailed resource usage 
+information.
+
+Developed Networking policies for Docker containers. Worked on open source development 
+tools like Docker Containers, Mesos and Kubernetes .
+
+Building/Maintaining Docker container clusters managed by Kubernetes, Linux, Bash, GIT, 
+Docker, on AWS . 
+
+Utilized Kubernetes and Docker for the runtime environment of the CI/CD system to build, 
+test deploy.
+Configured EC2 instances by writing Terraform templates, Chef cookbooks, recipes and 
+pushed them on to Chef server. 
+
+Wrote Lambda functions in Python for AWS Lambda and invoked Python scripts for data 
+transformations and analytics on large data sets in EMR clusters and AWS Kinesis data 
+streams.
+
+Automated the cloud deployments using Chef, Python and AWS Cloud Formation Templates 
+and configured Chef to build up services and applications on the instances once they have 
+been configured using Cloud Formation.
+
+Using Chef, deployed and configured Elastic Search, LogStash and Kibana ( ELK ) for 
+log analytics, full text search, application monitoring in integration with AWS Lambda 
+and Cloud Watch.
+
+Wrote Terraform scripts to automate AWS services which include Web servers, ELB, 
+Cloud Front distribution, Database, EC2, database security groups and S3 bucket.
+
+Implemented the Chef cookbook SSSD to automate the integration process between RHEL and 
+windows AD using Kerberos key tab file. 
+
+Highly Involved in configuring, monitoring multi-platform servers by defining Chef server 
+from workstation to manage and configure Chef nodes
+
+Implemented a Continuous Delivery pipeline with Docker, Jenkins and GitHub and AWS AMI’s, 
+whenever a GitHub branch gets started, Jenkins, our Continuous Integration server, 
+automatically attempts to build a new Docker container from it. 
+
+Troubleshoot the build issue during the Jenkins build process.
+
+Creating Python scripts to fully automate AWS services which includes ELB, Cloud Front 
+Distribution, EC2, Security Groups and S3. 
+
+This script creates stacks, single servers and joins web servers to stacks. 
+
+Expert knowledge in bash Shell scripting and automation of cronjobs.
+
+Integrating Defect tracking tool JIRA with Confluence and Jenkins CI server for 
+identifying, logging and, tracking and documenting defects/issues in real-time.
+
+Experienced in branching, tagging, and maintaining the version control systems across 
+the environments using SCM tool like GitHub.
+
+Used log monitoring tool called ELK to see log information. Implemented new ELK cluster 
+for enterprise logging.
+
+Configuring and managing an ELK stack, set up the elastic search ELK Stack to collect 
+search and analyze log files from across the servers and integration of Application 
+with monitoring tool New Relic for complete insight and proactive monitoring.
+
+System configuration/hardening using IP tables, SE Linux, TCP Wrappers, ACL and 
+traditional permission on Linux servers as well as restricting access to terminals, 
+disabling unnecessary services and securing.
+
+Environment: AWS (EC2, EBS, S3, VPC, Code Deploy, Code Commit, Elastic search, Lambda, API Gateway, Route 53 (DNS), ECS, Cloud Formation, RDS, Dynamo DB, Load Balancers, CloudWatch, SNS, SES, SQS, IAM, RedShift, Ops Works), Maven, Puppet, Ansible, Docker, Kubernetes, OpenStack, Jenkins, GIT, Python, Datadog, Jira.
+
+Analysis of business requirements and converting business rules into design software to 
+meet the requirements.
+Developed and supported the Software Release Management and procedures.
+Responsible for design and maintenance of the Subversion Repositories and the access 
+control strategies.
+
+Performed all necessary day-to-day Subversion support for different projects.
+Implemented & maintained the Branching and Build/Release strategies utilizing Subversion
+(SVN).
+Worked on Administration, maintenance and support of Red Hat Enterprise Linux (RHEL) 
+servers.
+ Administration of RHEL4.x, 5.x which includes installation, testing, tuning, upgrading and loading patches, troubleshooting both physical and virtual server issues.
+ Used Ant, Maven and Gradle as a build tools on java projects for the development of 
+build artifacts on the source code.
+Worked in development, testing, and production environment using SQL, PL/SQL procedure, 
+python, Ruby, PowerShell and shell scripts and managed to host the servers like 
+Tomcat, apache and NGINX.
+Maintained and administered GIT source code tool.
+Worked on designing, setting up from scratch, and scaling continuous build, integration 
+and deployment process from dev to production multiple times a day using tools like Jenkins, Bamboo, Artifactory, Nexus, maven, Ant.
+
+Manage deployment automation using Puppet, MCollective, Custom Puppet Modules and Ruby.
+Coordinating with source system owners, ETL progress monitoring, Data warehouse target 
+schema Design (Star Schema) and maintenance.
+Experienced with database manipulation/SQL(ANSI) query.
+Designed and developed the required tables in Netezza and Sql Server Databases.
+Experience with CI (Continuous Integration) and CD (Continuous Deployment) methodologies 
+using Bamboo and Jenkins/Hudson.
+Experienced in Chef and Puppet, SaltStack for Deployment on Multiple platforms.
+Worked with the groovy scripts in Jenkins to execute jobs for a continuous integration 
+pipeline where 'Groovy Jenkins Plugin' and 'Groovy Post-Build Action Plugin' is used 
+as a build step and post build actions environments needs. And, configuration automation 
+using Docker containers.
+Worked as Senior ETL Developer, SME and Onsite Coordinator with EPC-SI integration teams.
+Automated the build and release management process including monitoring changes between 
+releases.
+Managed the deployment activities for multiple server instances by enabling password 
+less SSH communication between the servers and utilizing the synchronize utility in the 
+shell scripts.
+Installation, Configuration and administration of Apache Web server, Tomcat server and 
+NodeJs in RHEL7.0
+Knowledge in cognos planning Application (TM1) and cognos SDK and also in Data Modelling 
+techniques.
+Implementing a Continuous Delivery framework using Jenkins, Puppet, Maven& Nexus in 
+Linux environment
+Design and developed continuous deployment pipeline, integrating Vagrant, Git, 
+Jenkins Zabbix 3.0 monitoring with Grafana visualization infrastructure in Kubernetes 
+cluster
+Migrated different projects from Star Team to SVN and Perforce to SVN.
+Implemented rapid provisioning and life cycle management for Ubuntu Linux using Amazon 
+EC2, Chef, and custom Ruby/Bash scripts.
+Managed VMware Infrastructure/vSphere5 clusters on Production Test/Development 
+environments.
+Automating cloud infrastructure setup via cloud formation, Terraform and Confidential 
+urbancode Deploy Ansible Playbook -AWS Code Deploy.
+Monitoring with Nagios, Graphite, Logstash/ElasticSearch, and Splunk for multiple 
+deployments
+Written Chef Recipes to automate build/deployment process and do an overall process 
+improvement to any manual processes.
+
+Conceived and designed custom POCs using Kafka 0.10 and the Twitter Stream in standalone 
+mode; architected the front-end near real-time data pub/sub non-blocking messaging 
+system using the Kafka/Confluent.io Enterprise.
+
+Lead and assisted with the scoping, sequencing, planning, and creating GIT environments
+Developed procedures to unify, streamline and automate application development and 
+deployment procedures with Linux container technology using Docker.
+
+Supported in building the environment for Apache, Tomcat and NodeJs.
+Docker image of Grafana with available plugins
+Worked on Ansible Playbooks for configuration management Platform; configured the 10 
+nodes-3 Web Servers,4 Kafka brokers and 3 Kafka consumers (Spark) Stressing (Data Frames) 
+with 3 Zookeeper nodes; Kafka Broker able to sustain 1 million writes per second.
+Extensively worked on Hudson, Jenkins and Anthill Pro for continuous integration (CI) and for End-to-End automation for all build and deployments.
+Using GIT Hub for version controlling and its daily job of working with GIT commands while working for Ansible - Ops code.
+Involved in migration of Bamboo server, Artifactory & GIT server.
+Hands on expertise in using version controller tools like Subversion (SVN), GIT, Stash, Confidential Clear case UCM.
+Set up CI (Continuous Integration) for major releases in Jenkins and TeamCity.
+Used Atlassian Bamboo build plans for supporting production
+Involved in implementing Workflows, Components, Screens and Notification schemes in Jira Project setup.
+Designing and implementing fully automated server build management, monitoring and deployment by using technologies like Chef.
+Deployed the Java applications into Apache Tomcat Application Servers.
+Migration of Atlassian tools under RHEL Linux & Jira
+Experience in writing Maven pom.xml and Ant build.xml for build scripts.
+Executed user administration and maintenance tasks including creating users and groups.
+Utilized WAR and JAR files for deployment of enterprise apps.
+rovided assistance for management of AWS storage infrastructure systems.
+Managed Nexus Maven repositories to download the artifacts during the build.
+Used Shell and Perl scripting to deploy artifacts that are built by Maven.
+Used Build forge for DevOps strategies as the automation engine.
+Executed XML, Ant Scripts, Ruby, Shell Scripts, Perl Scripts, Power Shell scripts and JAVA Scripts
+Created and maintained the Shell/Perl deployment scripts for Web Logic web application servers AWS, Ec2, Junit, Jira, Rally, Python, SQL.
+
+Environment: Red Hat Enterprise Linux6.5, Atlassian, EC2, VPC, ELB, IAM, Apache Web Server2.4, MySQL 5.5, Storage Gateway, Cloud Front, OpsWorks, VMware, chef, Docker, Grafana, Vagrant, Kubernetes, Power Shell, Cloud Formation, VPC, Direct Connect, Route53, SNS, Cloudwatch, Apache, GIT, Bamboo, Artifactory, Ansible, SVN, AWS, Kafka installation Confidential AWS, JBoss, Log stash, Puppet.
+
+Confidential
+
+
+Reviewed code pull requests for design, security concerns, correctness, and HIPAA 
+compliance prior to merging code from external contractors.
+
+Designed & developed workflows to automate Database Patching & Rollback using Python.
+Managed the execution of the deployment plan, Release Notes, perform and manage Go/No 
+Go checklists, resource and deployment coverage, and communications to stakeholders 
+using the SDLC model.
+
+Created puppet manifests and modules to automate system operations. 
+
+Defining Release Process & Policy for projects early in SDLC.
+Migrated applications to the AWS cloud.
+Scripting in multiple languages on UNIX, LINUX, and Windows - Batch, Shell script etc.
+Work with different team members for automation of Release components.
+Created multi-AZ VPC instances.
+Implemented a Continuous Delivery pipeline with Dockers, GitHub and AWS.
+    
+Experimented with Dockers, by using Dockers-compose.
+Configured S3 versioning and lifecycle policies to and backup files and archive files in.
+ubleshoot the build issue during the Jenkins build process.
+
+Environment: Windows/Linux, Git, SVN, ANT, EC2, TFS, Python, MYSQL, Cloudwatch, Maven, Jenkins, Maven, Puppet, Java, Nexus, Puppet and AWS, UAT, Shell script, Docker, Load balancer.
+
+Confidential
+Deployed Web Applications using IIS Web Server and controlled Traffic flow using Internal 
+and External Load Balancer.
+System Design, Deployment & Cloud Implementations, Development, Analysis and Implementation
+using Microsoft Technologies for enterprise applications.
+Investigating the diagnostic logs to find unidentified issues and diagnose the root cause 
+of the issue.
+Created clusters on IIS web servers using Network load balancing and managed net scale 
+clusters.
+Infrastructure Migrations - Drive Operational efforts to migrate all legacy services to a 
+fully Virtualized Infrastructure.
+Worked on the Business requirements and developed the solution, Agile Methodology and 
+continuous integration using the SDLC process.
+Prepared capacity and architecture plan to create the Azure Cloud environment to 
+host migrated IaaS VMs and PaaS role instances for refactored applications and databases.
+Worked on Power Shell scripts to automate the Azure cloud system creation of Resource 
+groups, Web Applications, Azure Storage Blobs & Tables, firewall rules.
+Worked on Serverless services (Azure Functions) created and configured HTTP Triggers in 
+the Azure Functions with Application insights for monitoring and performing load testing
+on the Applications using the VSTS.
+Designed and configured Azure Virtual Networks (VNets), subnets, Azure network settings, 
+DHCP address blocks, DNS settings, security policies and routing.
+Migrate Database Services from on-premises to Azure Cloud Environments using DMA and SSMS,
+updating the connection strings, collaborate with development and QA teams to maintain 
+high-quality deployment.
+Configured VMs in Availability Sets using Azure Portal to provide resiliency for 
+IaaS based solution and scale sets using Azure Resource Manager to manage network traffic.s
+
+Maintained and managed DNS (Domain Name Service) for AD (Active Directory) enterprise and 
+maintained the users and groups accounts for the enterprise accounts.
+
+
+
+Infrastructure Migrations - Drive Operational efforts to migrate all legacy services to a 
+fully Virtualized Infrastructure.
+
+Worked with ARM templates and scripts using Azure PowerShell during Automation and Build 
+Process.
+Azure PaaS Solutions like Azure Web Apps, Redis Cache, Application Insights, Azure 
+Serverless Functions, SQL Azure and Azure Storage.
+Sync Azure SQL Database with on-premises Databases using ARM Portal, SSMS and DMA.
+Creating and Configuring Azure Redis cache, configuring cache clients using ARM, Azure PowerShell and adding and removing objects from the cache.
+
+Developed automation solution using PowerShell scripting for day to day operational tasks.
+
+
+
+
+Collaborate to development of main Web Applications to provide invoicing emission 
+services, Responsible of web application deployments over cloud services on Azure, 
+using VS and PowerShell.
+Configuring the Load Balance Sets Azure Load Balancer, Internal Load Balancer and Traffic 
+Manager and worked on Application Gateway.
+
+Created and Configured Azure Cosmos DB and exposed the service as Web API.
+Provisioned Azure data lake store and azure data lake analytics, and leverage U-SQL to 
+write federated queries across data stored in multiple azure services.
+
+    
+Worked on Azure Site Recovery, PowerShell Scripts and ARM templates.
+Architecting the IAM scope for B2C and B2B identities using Azure AD, and Integrating 
+.NET Web Apps with Azure AD.
+Worked with staff to outline and scheduled department needs regarding database functionalities, data analytics and reporting; created business requirements.
+Co-ordinate with global identity and access management program involved in 
+hybrid identity project.
+
+
+Environment: Microsoft Azure Cloud, SQL Server 2012 R2, SSMS, Azure, Web Apps, Active Directory, NSG, Traffic Manager, Azure SQL Database, Azure AD.
+
+
+Install and Configuring AD FS role on Domain Controllers, deploy WAP Server for the 
+users to reach AD FS out of company network.
+Configured Azure Traffic Manager to build routing for user traffic Infrastructure 
+
+Drive Operational efforts to migrate all legacy services to a fully virtualized 
+Infrastructure.
+Design, Install, Administer and Optimize hybrid cloud components to ensure business 
+continuity (i.e. Azure AD, ADFS, SSO & VPN Gateways).
+Provide consulting and cloud architecture for premier customers and internal projects 
+running on MS Azure platform for high-availability of services, low operational costs.
+Configuring and Controlling the Scale Up and Scale Out of the App Service Plans and 
+Pricing tier (scale DTUs) while migrating the Databases and Applications from on-premises
+to Azure Cloud Platform.
+Created the VM Cluster and load balance for VMs using PowerShell in SQL & Windows 
+Environment.
+
+Worked on Azure AD connect to sync on-premises AD user data, groups and organizations to 
+Azure AD and troubleshoot Azure services sync with on-premise AD and resync using the 
+Azure tools.
+Integrating Azure Active Directory for user authentication/authorization and organization 
+profiles.
+Develop PowerShell scripts to perform pre-migration assessments of Active Directory and 
+server states.
+Designed and developed standalone data migration applications to retrieve and populate 
+data from Azure Table / BLOB storage to on premise SQL Server instances.
+Utilized Agile Methodologies - Scrum meetings to manage full life-cycle development of 
+the project.
+Configured VMs in Availability Sets using Azure Portal to provide resiliency for 
+IaaS based solution and scale sets using Azure Resource Manager to manage network traffic.
+
+Environment: Microsoft Azure Cloud, Windows Server 2012/R2/2016, Windows PowerShell, Microsoft Azure Storage, NSG, IIS, Agile Scrum Methodologies.
+
+ANGUAGES HTML, UNIX Shell Scripting, PERL, Power Shell 2.0, C, C , Tenfold, 
+Universal Application UA
+DATABASES Oracle 10g/11G, SQL Server 2008
+OPERATING SYSTEMS Windows 7, Windows 2003/2008 Servers, UNIX
+SCRIPTS/TOOLS MS Office Word, Excel, Power point, Visio , Reflection, FTP,
+TOAD 9.2, HPSM, ServiceNow, ITSM
+MIDDLEWARE TECHNOLOGIES Apache Tomcat 7.0, Microsoft IIS 7.5, IBM Websphere Application 
+Server 6.1/7.0/8.0, Netegrity Siteminder
