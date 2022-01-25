@@ -1,0 +1,98 @@
+Implement Secureworks to aggregate and analyze data from a variety of AWS log sources and 
+services (e.g. CloudTrail, VPC Flow Logs),Azure Active Directory, Azure Activity
+Logs, Azure Security Center, NSG Flow Logs and Storage Blobs to prevent security
+breaches, detect malicious activity in real time, respond rapidly, and predict emerging 
+threats.
+
+Leverages Prisma Cloud to provide visibility and control over public cloud environments 
+while extending security to hosts, containers and serverless functions with a single, 
+unified agent framework.
+
+Create and enable Prisma custom policies to monitors resources deployed on the 
+Public cloud environments—AWS, Microsoft Azure for cloud security and compliance risks
+to ensure resource configurations adhere to industry standards.
+
+Integrates Prisma cloud with continuous integration and continuous delivery (CI/CD) 
+workflow to secure cloud infrastructure and applications early in development, scan 
+infrastructure-as-code (IaC) templates, container images, serverless functions and 
+more while gaining powerful, full-stack runtime protection.
+
+Integrate configuration change alerts (Prisma) into DevOps and SecOps workflows to 
+automatically resolve issues, streamlines the process of identifying issues, detecting 
+and responding to a list of prioritized risks to maintain an agile development process 
+and operational efficiency.
+
+Automation is a no-code rule builder that enables customers to build if-this-then-that-rules based on events in Jira
+It allows teams to automate their processes, save time, keep Jira up to date and focus on what’s most important.
+
+
+Automation is completely customizable. This means you can set up rules to suit your needs whatever they are. Some common use cases are:
+
+    When your last sub-task closes, then close the parent issue.
+    When a bug fix is shipped, then close all issues and notify customers.
+    When a customer raises an issue in Jira Service Management, create a cloned issue in Jira Software and assign it to an engineer.
+
+We have set you up with sample rule templates in your instance so you can quickly get started with common use cases.
+                                                                                                                                                                                       
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   
+																																													   _||
+Build a fully automated, highly elastic cloud framework, leveraging deployment automation 
+and configuration management frameworks such as Jenkins and Ansible.
+
+
+
+
+ 
